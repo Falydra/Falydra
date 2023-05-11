@@ -13,4 +13,4 @@ Beginner
 
 ### Badges
 
-<a href="http://www.github.com/visontt"><img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Visontt&theme=tokyonight)](https://git.io/streak-stats)"/></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Visontt&theme=radical)
