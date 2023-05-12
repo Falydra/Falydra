@@ -4,7 +4,7 @@ Call me Aly
 Beginner 
 --------------------
 
-* I'm learning ReactJS and Typescript
+* I'm learning .Net and Typescript
 * Interested in Ai and Machine Learning
 
 ### Socials
