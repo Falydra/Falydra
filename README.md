@@ -13,4 +13,5 @@ Beginner
 
 ### Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Visontt&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Visontt&theme=radical) -->
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Visontt&&show_icons=true&theme=dark
