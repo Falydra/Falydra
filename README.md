@@ -10,7 +10,7 @@ Beginner
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/725215029103689838" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Falydra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/falydra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uxqduo5x36fvykd4cwac4zbuju&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+(https://spotify-github-profile.vercel.app/api/view?uid=31uxqduo5x36fvykd4cwac4zbuju&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Badges
 
