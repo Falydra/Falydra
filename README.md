@@ -15,6 +15,5 @@ Beginner
 
 ### Badges
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falydra)](https://github.com/falydra/github-readme-stats)
-[![](https://visitcount.itsvg.in/api?id=Falydra&icon=0&color=0)](https://visitcount.itsvg.in)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falydra&show_icons=true&theme=transparent)
 
