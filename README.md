@@ -17,4 +17,4 @@ Beginner
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falydra&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falydra)](https://github.com/falydra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falydra&theme=transparent)](https://github.com/falydra/github-readme-stats)
