@@ -18,4 +18,4 @@ Beginner
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falydra&show_icons=true&theme=transparent)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Falydra&theme=tokyonight" alt="GitHub Streak" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falydra&theme=transparent)](https://github.com/falydra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falydra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
