@@ -16,6 +16,6 @@ Beginner
 ### Badges
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falydra&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Falydra&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Falydra&theme=tokyonight" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falydra&theme=transparent)](https://github.com/falydra/github-readme-stats)
